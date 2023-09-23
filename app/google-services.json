@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987896202904",
+    "project_id": "guesscard-14afc",
+    "storage_bucket": "guesscard-14afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987896202904:android:d05565c2504a4e224672ed",
+        "android_client_info": {
+          "package_name": "com.example.guesscard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTZi_KE2TBwjHpia2y2J6zNTOiYT5zYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
